@@ -4,9 +4,9 @@
 🔬 Focused on software testing, automation, and delivering high-quality products.
 
 ### 🚀 Technologies & Skills
-- **Languages:** JavaScript, TypeScript, PHP  
+- **Languages:** JavaScript, TypeScript, PHP, MySQL
 - **Frameworks & Front-end:** Vue 3  
-- **Automation & QA:** Playwright, Cypress, Postman  
+- **Automation & QA:** Playwright, Cypress, Postman
 - **Tools & DevOps:** GitLab, Elastic, CI/CD pipelines
 
 ### ✅ What I Do
