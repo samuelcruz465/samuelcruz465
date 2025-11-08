@@ -25,9 +25,9 @@
 
 ## 📊 GitHub Stats
 
-![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelcruz454&show_icons=true&theme=dracula)
+![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelcruz465&show_icons=true&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcruz454&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcruz465&layout=compact&theme=dracula)
 
 ---
 
