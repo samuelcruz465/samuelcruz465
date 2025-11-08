@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @samuelcruz465, 26 years old and i'm student IT
+- 👋 Hi, I’m @samuelcruz465, 30 years old!
+- 👨‍💻 I'm Ml Quality Assurance.
 - 👀 I’m interested in learning Program Languages, front/back end techniques and etc...
 - 🌱 I’m currently learning Python, Java, PHP, CSS, and some frameworks
 - 💞️ I’m looking to collaborate on others students and personal projects to pratice
